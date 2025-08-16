@@ -1,2 +1,26 @@
-# AI-Powered-WhatsApp-Booking-Chatbot-with-Google-Calendar-Sheets
-Developed an AI-powered WhatsApp chatbot integrated with Google Calendar and Google Sheets using n8n automation and OpenAI’s GPT-4o-mini model for conversation handling. The chatbot:  • Collects and stores user contact details. • Checks calendar availability and offers time slots in the user’s local time zone. • Handles weekday/weekend
+n8n-WhatsApp-Booking-Chatbot-Automation
+
+📌 Overview
+
+AI-powered WhatsApp chatbot built with n8n automation and OpenAI GPT-4o-mini for intelligent conversation handling.
+The workflow integrates Google Calendar and Google Sheets to fully automate the appointment scheduling process.
+
+🚀 Features
+	•	📱 WhatsApp Chatbot: Collects and stores user contact details.
+	•	🗓 Smart Scheduling:
+	•	Checks Google Calendar availability.
+	•	Offers available time slots in the user’s local timezone.
+	•	Enforces weekday/weekend booking rules.
+	•	Applies same-day booking cutoffs.
+	•	📊 Google Sheets Integration: Stores bookings and updates in real-time.
+	•	📧 Email Confirmations: Sends instant confirmations to users.
+	•	⚡ Seamless Automation: Reduces manual scheduling work and provides a smooth booking experience.
+
+🛠 Tech Stack
+	•	n8n (workflow automation)
+	•	OpenAI GPT-4o-mini (conversation handling)
+	•	Google Calendar API
+	•	Google Sheets API
+	•	WhatsApp Business API / Twilio
+
+ 
